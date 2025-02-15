@@ -45,7 +45,7 @@ LIMIT 10;
 - **Top 3 Roles:** The Director of Analytics at Meta ($336,500) and Associate Director at AT&T ($255,829.50) follow.
 - **Salary Range:** Salaries range from $184,000 (ERM Data Analyst) to $650,000, with most jobs offering between $186,000 and $217,000.
 
-![Top Paying Jobs](assets\top_paying_jobs.png)
+![Top Paying Jobs](assets/top_paying_jobs.png)
 *This **bar chart** displays the top 10 paying data analysis jobs sorted in descending order for easy comparison.*
 ### 2. Skills for Top Paying Jobs
 This query identifies the skills required for the top-paying jobs. It provides a detailed look at which high-paying roles demand certain skills.
@@ -82,7 +82,7 @@ ORDER BY
 - **Salary Range:** Salaries for data analyst positions vary, with the highest average salary being $255,829 (AT&T) and the lowest at $184,000 (Get It Recruit - IT).
 - **Company Focus:** Large companies like AT&T, Pinterest, and SmartAsset dominate the listings, showcasing their need for skilled data professionals across different technical domains.
 
-![skills_frequency](assets\skill_frequency.png)
+![skills_frequency](assets/skill_frequency.png)
 ### 3. Most In-Demand Skills
 This query identifies the top 5 most in-demand skills across all job postings. It retrieves the skills with the highest demand in the job market.
 ```sql
